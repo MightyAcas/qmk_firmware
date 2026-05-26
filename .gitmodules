@@ -28,3 +28,6 @@
 [submodule "modules/zsa"]
 	path = modules/zsa
 	url = https://github.com/zsa/qmk_modules.git
+[submodule "modules/ikcelaks/sequence_transform"]
+	path = modules/ikcelaks/sequence_transform
+	url = https://github.com/ikcelaks/qmk_sequence_transform.git
